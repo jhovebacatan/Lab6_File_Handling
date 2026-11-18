@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Bacatan
+Student ID: TUPM-26-3609
+Seed Digit: 9
+ID_SUM: 26
+Verification Value: 191
+Dataset Sample Size: 76
+Valid Records: 76
+Average Global Active Power: 4.017
+JSON File: Bacatan_TUPM-26-3609_record.json
+Backup File: Bacatan_TUPM-26-3609_record.csv

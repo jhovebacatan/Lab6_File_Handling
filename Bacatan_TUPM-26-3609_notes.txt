@@ -1,0 +1,6 @@
+Student: Bacatan
+Student ID: TUPM-26-3609
+Seed: 9
+ID_SUM: 26
+Name Length: 7
+Verification Value: 191
